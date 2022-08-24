@@ -3,3 +3,4 @@
 META-INF
 target
 /out/*
+.DS_Store
